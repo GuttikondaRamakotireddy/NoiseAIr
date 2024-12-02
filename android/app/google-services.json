@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717951412814",
+    "project_id": "noise-ai-c5eaa",
+    "storage_bucket": "noise-ai-c5eaa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717951412814:android:1ba5731ce6961281b7b11f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvF2AjKWsS0CDbZ8k7HeD15Z8xWey_l00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
